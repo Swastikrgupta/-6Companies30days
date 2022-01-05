@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+# Ignore .exe files
+*.exe
+# ignore swp files
+*.swp
+
+
